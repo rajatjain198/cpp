@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1588278699 source:e:\dsa project\games\main.cpp
+	"admin.h"
+	"login.h"
+	"TicTacToe.h"
+
+1588280108 e:\dsa project\games\tictactoe.h
+	<iostream>
+	<stdlib.h>
+
+1586960635 e:\dsa project\games\deckofcards.h
+	"card.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1586960582 e:\dsa project\games\card.h
+	<iostream>
+	<string>
+	<cstring>
+
+1586965478 e:\dsa project\games\pokerface.h
+
+1588285567 e:\dsa project\games\blackjack.h
+	"deckOfcards.h"
+	"TicTacToe.h"
+
+1590576162 e:\dsa project\games\user.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1588280654 e:\dsa project\games\admin.h
+	"user.h"
+
+1588013642 e:\dsa project\games\register.h
+	"login.h"
+
+1588281281 e:\dsa project\games\login.h
+	"user.h"
+	"BlackJack.h"
+
